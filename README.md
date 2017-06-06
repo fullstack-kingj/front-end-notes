@@ -2,14 +2,14 @@
 
 ### HTML5 基础
 	
-- [HTML 介绍](html-basics/html-introduce.md)
-- [第一个 HTML 页面](html-basics/first-html.md)
-- [HTML 基本元素](html-basics/html-basics-element.md)
-- [HTML 列表](html-basics/html-list.md)
-- [链接元素](html-basics/link-element.md)
-- [图片元素](html-basics/image-element.md)
-- [HTML 表格](html-basics/html-table.md)
-- [HTML 表单](html-basics/html-form.md)
+- [HTML 介绍](html5-basics/html-introduce.md)
+- [第一个 HTML 页面](html5-basics/first-html.md)
+- [HTML 基本元素](html5-basics/html-basics-element.md)
+- [HTML 列表](html5-basics/html-list.md)
+- [链接元素](html5-basics/link-element.md)
+- [图片元素](html5-basics/image-element.md)
+- [HTML 表格](html5-basics/html-table.md)
+- [HTML 表单](html5-basics/html-form.md)
 
 ### HTML5 新特性
 
